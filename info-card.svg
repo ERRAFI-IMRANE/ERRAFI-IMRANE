@@ -1,0 +1,25 @@
+<svg viewBox="0 0 490 290" width="490" height="290"
+     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="neofetch-style info card">
+  <style>
+    .card-bg { fill: #0d1117; }
+    .titlebar { fill: #161b22; }
+    .dot { }
+    .title { font: 600 13px 'SFMono-Regular', 'Consolas', 'Menlo', monospace; fill: #8b949e; }
+    .key { font: 600 14px 'SFMono-Regular', 'Consolas', 'Menlo', monospace; }
+    .val { font: 14px 'SFMono-Regular', 'Consolas', 'Menlo', monospace; fill: #c9d1d9; }
+    
+    .row { opacity: 0; transform: translateX(-6px); animation: fadeIn 0.4s ease-out forwards; }
+    @keyframes fadeIn { to { opacity: 1; transform: translateX(0); } }
+    
+  </style>
+
+  <rect class="card-bg" x="0" y="0" width="490" height="290" rx="10" />
+  <rect class="titlebar" x="0" y="0" width="490" height="34" rx="10" />
+  <rect x="0" y="18" width="490" height="16" fill="#161b22" />
+  <circle class="dot" cx="20" cy="17" r="6" fill="#ff5f56" />
+  <circle class="dot" cx="40" cy="17" r="6" fill="#ffbd2e" />
+  <circle class="dot" cx="60" cy="17" r="6" fill="#27c93f" />
+  <text x="245.0" y="21" text-anchor="middle" class="title">imrane@github</text>
+
+  <g class="row" style="animation-delay:0.00s"><text x="22" y="58" class="key" fill="#39d353">User</text><text x="130" y="58" class="val">IMRANE ERRAFI  (@ERRAFI-IMRANE)</text></g><g class="row" style="animation-delay:0.09s"><text x="22" y="84" class="key" fill="#58a6ff">Role</text><text x="130" y="84" class="val">Full-Stack Developer / CS Student</text></g><g class="row" style="animation-delay:0.18s"><text x="22" y="110" class="key" fill="#f778ba">School</text><text x="130" y="110" class="val">Higher School of Technology (DUT)</text></g><g class="row" style="animation-delay:0.27s"><text x="22" y="136" class="key" fill="#e3b341">Location</text><text x="130" y="136" class="val">Azrou, Morocco</text></g><g class="row" style="animation-delay:0.36s"><text x="22" y="162" class="key" fill="#79c0ff">Stack</text><text x="130" y="162" class="val">Java · JavaScript · SQL · CSS · HTML</text></g><g class="row" style="animation-delay:0.45s"><text x="22" y="188" class="key" fill="#ff7b72">Repos</text><text x="130" y="188" class="val">31 public repos · 4 stars</text></g><g class="row" style="animation-delay:0.54s"><text x="22" y="214" class="key" fill="#56d364">LinkedIn</text><text x="130" y="214" class="val">in/errafi-imrane-bb8a26233</text></g><g class="row" style="animation-delay:0.63s"><text x="22" y="240" class="key" fill="#d2a8ff">Highlights</text><text x="130" y="240" class="val">GitHub Pro</text></g>
+</svg>
