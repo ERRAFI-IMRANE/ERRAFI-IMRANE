@@ -1,0 +1,47 @@
+<svg viewBox="0 0 860 52" width="860" height="52"
+     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Headline">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="20" y="11" width="0" height="31">
+        <animate id="type0" attributeName="width" begin="0s; erase3.end+0.35s"
+                 dur="1.89s" from="0" to="277.2" fill="freeze" />
+        <animate id="erase0" attributeName="width" begin="type0.end+1.3s"
+                 dur="0.94s" from="277.2" to="0" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="20" y="11" width="0" height="31">
+        <animate id="type1" attributeName="width" begin="erase0.end+0.35s"
+                 dur="4.23s" from="0" to="620.4" fill="freeze" />
+        <animate id="erase1" attributeName="width" begin="type1.end+1.3s"
+                 dur="2.11s" from="620.4" to="0" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect x="20" y="11" width="0" height="31">
+        <animate id="type2" attributeName="width" begin="erase1.end+0.35s"
+                 dur="2.70s" from="0" to="396.0" fill="freeze" />
+        <animate id="erase2" attributeName="width" begin="type2.end+1.3s"
+                 dur="1.35s" from="396.0" to="0" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="20" y="11" width="0" height="31">
+        <animate id="type3" attributeName="width" begin="erase2.end+0.35s"
+                 dur="2.16s" from="0" to="316.8" fill="freeze" />
+        <animate id="erase3" attributeName="width" begin="type3.end+1.3s"
+                 dur="1.08s" from="316.8" to="0" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+  <style>
+    .bg { fill: #0d1117; }
+    .typed {
+      font: 600 22px 'SFMono-Regular', 'Consolas', 'Menlo', monospace;
+      fill: #39d353;
+      white-space: pre;
+    }
+  </style>
+  <rect class="bg" x="0" y="0" width="860" height="52" rx="10" />
+  <text x="20" y="33" clip-path="url(#clip0)" class="typed">Full-Stack Developer▌</text><text x="20" y="33" clip-path="url(#clip1)" class="typed">CS Student @ Higher School of Technology (DUT)▌</text><text x="20" y="33" clip-path="url(#clip2)" class="typed">Java . JavaScript . SQL . CSS▌</text><text x="20" y="33" clip-path="url(#clip3)" class="typed">Based in Azrou, Morocco▌</text>
+</svg>

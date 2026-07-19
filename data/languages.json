@@ -1,0 +1,51 @@
+{
+  "username": "ERRAFI-IMRANE",
+  "generated_at": "2026-07-19T00:22:03Z",
+  "repo_count": 31,
+  "totals": {
+    "Java": 175610,
+    "PLpgSQL": 8976,
+    "Batchfile": 2535,
+    "Python": 177001,
+    "PHP": 81649,
+    "Jupyter Notebook": 1727,
+    "Hack": 192,
+    "CSS": 489143,
+    "JavaScript": 364868,
+    "HTML": 354580,
+    "SCSS": 225845,
+    "XSLT": 111792
+  },
+  "top": [
+    {
+      "name": "CSS",
+      "bytes": 489143,
+      "pct": 24.5
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 364868,
+      "pct": 18.3
+    },
+    {
+      "name": "HTML",
+      "bytes": 354580,
+      "pct": 17.8
+    },
+    {
+      "name": "SCSS",
+      "bytes": 225845,
+      "pct": 11.3
+    },
+    {
+      "name": "Python",
+      "bytes": 177001,
+      "pct": 8.9
+    },
+    {
+      "name": "Java",
+      "bytes": 175610,
+      "pct": 8.8
+    }
+  ]
+}

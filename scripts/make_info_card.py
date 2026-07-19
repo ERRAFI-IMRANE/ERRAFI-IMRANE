@@ -31,7 +31,7 @@ FIELDS = [
     ("Role", "Full-Stack Developer / CS Student"),
     ("School", "Higher School of Technology (DUT)"),
     ("Location", "Azrou, Morocco"),
-    ("Stack", "Java · JavaScript · SQL · CSS · HTML"),
+    ("Stack", "CSS · JavaScript · HTML · SCSS · Python · Java"),
     ("Repos", "31 public repos · 4 stars"),
     ("LinkedIn", "in/errafi-imrane-bb8a26233"),
     ("Highlights", "GitHub Pro"),
