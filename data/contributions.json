@@ -1,43 +1,8 @@
 {
   "username": "ERRAFI-IMRANE",
-  "generated_at": "2026-09-05T10:34:31Z",
-  "total": 156,
+  "generated_at": "2026-09-06T10:54:54Z",
+  "total": 157,
   "days": [
-    {
-      "date": "2025-08-31",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-01",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-02",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-04",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-06",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-07",
       "count": 0,
@@ -1855,19 +1820,23 @@
     },
     {
       "date": "2026-09-05",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-09-06",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
     "current_streak": 0,
-    "longest_streak": 50,
+    "longest_streak": 51,
     "best_day": {
       "date": "2026-04-06",
       "count": 34
     },
     "monthly_totals": {
-      "2025-08": 0,
       "2025-09": 0,
       "2025-10": 0,
       "2025-11": 3,
@@ -1880,7 +1849,7 @@
       "2026-06": 0,
       "2026-07": 28,
       "2026-08": 38,
-      "2026-09": 7
+      "2026-09": 8
     }
   }
 }
